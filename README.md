@@ -5,6 +5,6 @@ Portafolio Data Science
 
 Este repositorio es para evaluar, analizar y comprender dataset mediante las herramientas del machine learning.
 
-1. Primer Analisis de [wine](https://github.com/alexisfd/portafolio/tree/main/wine).
+1. Analisis de [wine](https://github.com/alexisfd/portafolio/tree/main/wine).
 
 El caso consiste en un dataset de vinos, para poder encontrar la calidad de la variable objetivo debemos trabajar con los Outliers, luego implementar PCA y 6 modelos diferentes de machine learning, identificando el mejor algoritmo para poder clasificar la calidad del vino.
